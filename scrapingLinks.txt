@@ -1,0 +1,6 @@
+Venezia
+https://www.immobiliare.it/vendita-appartamenti/venezia/?criterio=rilevanza&idMZona[]=158&idMZona[]=159&idMZona[]=161&idMZona[]=162&idMZona[]=163&idMZona[]=10402&idMZona[]=164&idMZona[]=165&idMZona[]=166&idMZona[]=171
+https://www.immobiliare.it/vendita-appartamenti/venezia/?criterio=rilevanza&pag=2&idMZona[]=158&idMZona[]=159&idMZona[]=161&idMZona[]=162&idMZona[]=163&idMZona[]=10402&idMZona[]=164&idMZona[]=165&idMZona[]=166&idMZona[]=171
+1
+71
+trying.txt
